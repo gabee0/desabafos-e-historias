@@ -47,3 +47,10 @@ body {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #136b69, #499c70, #9dcc9b, #d5e4cf);
+}
