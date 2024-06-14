@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f7f4;
+    bckground-color: #f0f7f4; 
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 .header {
-    background-color: #c0dfd6;
+      bacground-color: #c0dfd6;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -28,7 +28,7 @@ body {
 
 .header button {
     padding: 10px 20px;
-    background-color: #4caf50;
+     backround-color: #4caf50;
     color: white;
     border: none;
     border-radius: 5px;
@@ -36,13 +36,13 @@ body {
 }
 
 .posts {
-    background-color: #d9f0e1;
+   backround-color: #d9f0e1;
     padding: 20px;
     border-radius: 10px;
 }
 
 .post {
-    background-color: #e5f4ed;
+    bacground-color:   #e5f4ed;
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 10px;
